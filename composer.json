@@ -1,0 +1,14 @@
+{
+    "name": "russ666/yii2-buttons-group-input",
+    "description": "Yii2 buttons group input",
+    "keywords": ["yii2", "button", "group", "input", "bootstrap"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/russ666/yii2-buttons-group-input/issues",
+        "source": "https://github.com/russ666/yii2-buttons-group-input"
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    }
+}
