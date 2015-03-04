@@ -30,15 +30,15 @@ echo $form->field($model, 'elements')->widget(\russ666\widgets\ButtonsGroupInput
 Params
 ================
 
-Type
+type
 -----------------------
 Bootstrap button type. `primary`, `danger` etc.
 
-Size
+size
 -----------------------
 Bootstrap button size. `lg`, `xs` etc.
 
-Radio
+radio
 -----------------------
 Flag to use buttons group as radio or checkboxes.
 
